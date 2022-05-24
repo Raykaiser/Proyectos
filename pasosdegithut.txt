@@ -1,0 +1,7 @@
+1 git init
+2 git status 
+3 git add .
+4 git status
+5 git commit -m "ejemplo"
+6 git remote add origin https://github.com/CuervoJamasSonrie/prack.git
+7 git add origin master
