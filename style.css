@@ -1,0 +1,17 @@
+.{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(img/fondo_registro.png);
+}
+
+/*contenido*/
+.Contenedor{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
